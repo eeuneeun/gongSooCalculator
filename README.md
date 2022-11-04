@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+현장직 근로자 분들의 일당 계산을 도와주는 앱입니다.
